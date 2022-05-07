@@ -3,4 +3,4 @@
 
 #endif //INFO_LIB_H
 
-float calcolo (float [], int );
+float calcolo (float [], int ); 
